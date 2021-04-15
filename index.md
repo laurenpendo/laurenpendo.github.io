@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lauren Pendo Data Scientist
 
 You can use the [editor on GitHub](https://github.com/laurenpendo/laurenpendo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
