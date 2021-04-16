@@ -1,13 +1,14 @@
+
+# Lauren Pendo
 <p align="center">
   <img src="headshot.jpg" width="150">
 </p>
 
-# Lauren Pendo
-
 I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year of the Master's program Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. 
 
-### Resume
 [Resume](PendoLauren_MS_ICME.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/lauren-pendo-209604b0/)
 
 
 ## Projects
