@@ -1,6 +1,10 @@
-## Lauren Pendo Data Scientist
+## Lauren Pendo
 
-Data Scientist with experience in statistics, machine learning and analytics. Current Master's Student at Stanford's Institute of Computational and Mathematical Engineering, Data Science. 
+I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year of the Master's program Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. 
+
+### Resume
+[Resume](PendoLauren_MS_ICME.pdf)
+
 
 ## Projects
 
@@ -10,13 +14,9 @@ We questioned much we could rely on the random quota assignment at the ED level 
 
 Through our exploratory data analysis, we verified that the covariates observed in the Afro-Barometer survey do tend to be balanced across treatments as supposed by Clayton in her supplemental analysis. Then, we analyzed her initial, direct testing through Clayton's own Neymanian lens, as well as from the Fisherian perspective. Here, we found that her results for political and traditional bias held even in the absence of normality assumptions, while her result for education bias did change in the Fisherian scheme.
 
-Viewing the quota dataset an an observational study, we used matching on age and gender in order to possess potential counfounding at the individual level that may not have been evident in the original analysis. Here, we saw that the results for each outcome generally became more significant, although none of the results crossed the threshold into actual statistical significance. As an extension, we also performed a sensitivity analysis to see how much this increase in significance held under increased devations from ignorability; here we found that the results are in fact quite sensitive, with the $p$-values increasing quite dramatically even for $\Gamma = 1.2$. 
-
+Viewing the quota dataset an an observational study, we used matching on age and gender in order to possess potential counfounding at the individual level that may not have been evident in the original analysis. Here, we saw that the results for each outcome generally became more significant, although none of the results crossed the threshold into actual statistical significance. As an extension, we also performed a sensitivity analysis to see how much this increase in significance held under increased devations from ignorability; here we found that the results are in fact quite sensitive, with the p-values increasing quite dramatically. 
 
 As a final check on the assumptions from an observational point of view, we turned to subclassification on propensity score as an alternative to matching and to return to a Neymanian paradigm. Again, we found that the results were not significant. 
-
-
-In conclusion, it was quite informative to view the randomized quota experiment from an observational lens given how we were able to assess deviations from the properties of a completely randomized experiment - in the observational study paradigm, these are instead seen as assumptions. While we performed a fairly detailed analysis on the explicit bias experiment, there are still numerous observational techniques that can be applied to the remaining covariates, and the potential to apply the same analysis to the experiment on implicit bias. Overall, we view the amount of information gleaned from this causal re-analysis as a vindication of the techniques that have come from the field in recent years, and see numerous opportunities for rich re-analysis on this dataset.
 
 
 [Final Deliverable](MSE327_Final_Project__Gender_Bias.pdf)
