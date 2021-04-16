@@ -1,10 +1,10 @@
 
 # Lauren Pendo
 <p align="center">
-  <img src="headshot.jpg" width="150">
+  <img src="headshot_circle.png" width="150">
 </p>
 
-I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year of the Master's program Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. 
+I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year of the Master's program Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. Previously, at Roku, I used tools like R, Python, and SQL for analyses in audience development and advertising analytics.
 
 [Resume](PendoLauren_MS_ICME.pdf)
 
