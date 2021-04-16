@@ -1,6 +1,7 @@
 <p align="center">
   <img src="headshot_circle.png" width="150">
 </p>
+
 # Lauren Pendo
 
 I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year my Master's at Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. During my program, I have worked on supervised learning projects in fair ML, natural language processing, and causal inference.
