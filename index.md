@@ -1,5 +1,5 @@
 ## Lauren Pendo
-<img src="headshot.png" alt="HeadShot" style="height: 100px; width:100px;"/>
+<img src="headshot.jpg"  style="height: 1px; width:1px;"/>
 
 I am a data scientist with experience in statistics, machine learning and analytics. I am currently in my second year of the Master's program Stanford's Institute of Computational and Mathematical Engineering concentrating on Data Science. 
 
